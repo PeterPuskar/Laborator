@@ -11,6 +11,9 @@ namespace Laborator
         static void Main(string[] args)
         {
             Laborator laborator = new Laborator();
+            laborator.SpustVyskum();
+
+            Console.ReadLine();
         }
     }
         

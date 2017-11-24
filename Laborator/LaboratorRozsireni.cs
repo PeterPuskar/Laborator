@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Laborator
 {
-    class LaboratorRozsireni
+    partial class Laborator
     {
         class Vedouci /*ked je bez oznacenia je privat*/
         {
